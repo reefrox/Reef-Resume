@@ -1,0 +1,124 @@
+body {
+	background: -webkit-linear-gradient(#D3D3D3, #888);
+	background-color: #D3D3D3;
+	background-size: 100%;
+}
+
+header {
+	position: fixed;
+}
+
+
+#home {
+	font-family: "Palatino Linotype", serif; 
+	color: #fff;
+	padding-left: 5px;
+	font-size: 50px;
+}
+
+
+#heading {
+	color: #fff;
+}
+
+
+#about {
+	font-family: "Palatino Linotype", serif; 
+	color: #999;
+	font-size: 20px;
+	text-align: right;
+	padding: 5px;
+	margin-bottom: 30px;
+	border: 1px solid #fff;	
+	border-radius: 3px;
+}
+
+
+p {
+	font-family: "Palatino Linotype", serif;
+	color: #444;
+}
+
+
+#topnav {
+	margin-left: -45px;
+	margin-top: -30px;
+}
+
+
+#topnav li {
+	display: inline;	
+	margin: 0px 10px;
+}
+
+
+a {
+	text-decoration: none;
+	color: #444;
+}
+
+
+a:hover {
+	color: #999;
+}
+
+
+.content {
+	text-align: justify;
+	position: relative;
+	width: 60%;
+	height: 60%;
+	margin-right: auto;
+	margin-left: auto;
+	top: 80px;
+}
+
+
+#footer {
+	position: fixed;
+    right: 15;
+    bottom: 10;
+    color: #444;
+}
+
+
+#contact-form {
+	color: #444;
+	text-align: center;
+}
+
+
+label {
+	display: block;
+	margin: 10px 0px;
+}
+
+
+input {
+	width: 250px;
+	height: 25px;	
+}
+
+
+textarea {
+	width: 250px;
+	height: 80px;
+	margin: 0 0 0 0px;
+}
+
+
+.button {
+	width: 80px;
+	margin-top: 15px;
+	text-align: center;
+}
+
+
+.error {
+	display: block;
+}
+
+
+
+
+
