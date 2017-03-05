@@ -6,7 +6,7 @@
 
 	<div id="contact">
 
-		<h1 id="about">Contact</h1>
+		<h1>Contact</h1>
 
 	<?php 
 

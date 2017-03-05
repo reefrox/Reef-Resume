@@ -5,14 +5,13 @@
 
 
 
-<div>
-	<h1 id="about">About</h1>
+<div class="container">
+	<h1>About</h1>
 	<p>
-		About lorem ipsum dolor sit amet, odio tristique. Ut lacus, proin non sed, aliquam rutrum ullamcorper, etiam auctor in proin risus, orci id vehicula imperdiet massa ante a. 
-		About lorem ipsum dolor sit amet, odio tristique. Ut lacus, proin non sed, aliquam rutrum ullamcorper, etiam auctor in proin risus, orci id vehicula imperdiet massa ante a.
-		About lorem ipsum dolor sit amet, odio tristique. Ut lacus, proin non sed, aliquam rutrum ullamcorper, etiam auctor in proin risus, orci id vehicula imperdiet massa ante a.
-		About lorem ipsum dolor sit amet, odio tristique. Ut lacus, proin non sed, aliquam rutrum ullamcorper, etiam auctor in proin risus, orci id vehicula imperdiet massa ante a.
-		About lorem ipsum dolor sit amet, odio tristique. Ut lacus, proin non sed, aliquam rutrum ullamcorper, etiam auctor in proin risus, orci id vehicula imperdiet massa ante a.
+		About this and that.About this and that.About this and that.About this and that.About this and that.About this and that.About this and that.
+		About this and that.About this and that.About this and that.About this and that.About this and that.About this and that.About this and that.
+		About this and that.About this and that.About this and that.About this and that.About this and that.About this and that.About this and that.
+		About this and that.About this and that.About this and that.About this and that.About this and that.About this and that.About this and that.
 	</p>
 </div>
 
