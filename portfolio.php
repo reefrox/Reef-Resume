@@ -5,7 +5,7 @@
 
 
 <div>
-	<h1 id="about">Stuff</h1>
+	<h1 id="about">Portfolio</h1>
 	<p>Stuff lorem ipsum dolor sit amet, odio tristique. Ut lacus, proin non sed, aliquam 
 		rutrum ullamcorper, etiam auctor in proin risus, orci id vehicula imperdiet 
 		massa ante a. Metus laoreet nec vestibulum, suspendisse ornare cursus, egestas 

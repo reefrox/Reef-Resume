@@ -56,7 +56,7 @@
 
 	?>
 
-			<!--Show success message after email sent -->
+			<!--Success message after email sent -->
 			<h5>Thanks for contacting me!</h5>
 
 
@@ -75,9 +75,9 @@
 			<input type="subject" id="subject" name="subject">
 
 			<label for="message">Message</label>
-			<textarea id="message" name="messge"></textarea><br />
+			<textarea id="message" name="messge"></textarea><br/>
 
-			<input type="submit" class="button" name="contact-submit" value="send">
+			<input type="submit" class="button" name="contact-submit" value="Send">
 
 		</form>
 

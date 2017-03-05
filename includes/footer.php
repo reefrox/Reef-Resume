@@ -4,13 +4,6 @@
 
 
 
-
-
-
-			
-
-		
-		
 		</div><!--content-->
 
 		<div id="footer">

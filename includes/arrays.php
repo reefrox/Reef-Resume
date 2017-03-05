@@ -14,8 +14,8 @@
 					),
 
 					array(
-						slug  	=> "stuff.php",
-						title 	=> "stuff"
+						slug  	=> "portfolio.php",
+						title 	=> "portfolio"
 					),
 
 					array(

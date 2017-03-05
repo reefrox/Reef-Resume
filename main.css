@@ -1,7 +1,9 @@
 body {
+	background: url("a");
 	background: -webkit-linear-gradient(#D3D3D3, #888);
 	background-color: #D3D3D3;
 	background-size: 100%;
+
 }
 
 header {
