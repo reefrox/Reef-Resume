@@ -2,9 +2,9 @@
 <html>
 <head>
 	<title><?php echo TITLE; ?></title>
-	<link rel="stylesheet" type="text/css" href="main.css">
+	<link rel="stylesheet" type="text/css" href="../assets/css/main.css">
 	<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>	
-	<script type="text/javascript" src="../js/main.js"></script>
+	<script type="text/javascript" src="../assets/js/main.js"></script>
 </head>
 <body>
 	<div class="wrapper">

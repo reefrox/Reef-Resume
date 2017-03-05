@@ -1,6 +1,6 @@
 
 $(document).ready(function() {
 
-	$('#heading').slideUp(5000);
+	//$('#heading').slideUp(5000);
 
 });
